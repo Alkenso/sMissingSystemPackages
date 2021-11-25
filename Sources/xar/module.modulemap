@@ -1,0 +1,5 @@
+module xar [system] {
+    header "shim.h"
+    link "xar"
+    export *
+}
